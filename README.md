@@ -31,7 +31,7 @@ backend/                  Express API
 
 ### Prerequisites
 
-- Node.js 18 or newer
+- Node.js 20
 - npm
 - A MongoDB connection string for persistent data
 
